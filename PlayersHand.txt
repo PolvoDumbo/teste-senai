@@ -1,0 +1,7 @@
+Mão do Jogador:
+	
+	- Layout Horizontal;
+	- Cartas: 4 min / 6 max
+	- CardSelector (2 jogadores)
+	- GameFeel
+	-

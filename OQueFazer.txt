@@ -1,0 +1,4 @@
+- animação OnHovering (+ Escala + Rotaçãozinha) para as cartas selecionadas;
+- animação de rotação para comprar mais cartas (players e ameaça);
+- animação Idle das cartas da mão (estilo Balatro);
+- animação de redução de recursos (tremidinha);

@@ -1,0 +1,39 @@
+SAUDE		( DOENTE e SAUDÁVEL )
+FOME		( ESFOMEADO e SATISFEITO )
+FELICIDADE 	( TRISTONHO e FELIZINHO )
+
+//-----------------------//
+
+Definir valor de saúde/fome/felicidade - mínimo e máximo.
+Definir tempo para estado negativo.
+
+
+//-----------------------//
+
+Se Saude = Mínimo
+	Doente (Verde)
+Senão
+	Saudável (Amarelo)
+
+//-----------------------//
+
+Se Fome = Mínimo
+	Esfomeado (Laranja)
+Senão
+	Satisfeito (Amarelo)
+
+//-----------------------//
+
+Se Felicidade = Mínimo
+	Entristecido (Azul)
+Senão
+	Feliz (Amarelo)
+
+//-----------------------//
+
+Se Saude, Fome, Felicidade = Mínimo
+	Morto (Branco)
+Senão
+	Vivo (Laranja)
+
+//-----------------------//

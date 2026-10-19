@@ -1,0 +1,33 @@
+			SemVer - Tom Preston-Werner
+
+Tipos de atualização:
+
+X - Major
+	Novos conceitos, novos resultados. (Muda como o jogo funciona)
+
+Y - Minor
+	Novos recursos, novos modelos. (Não muda como o jogo funciona)
+
+Z - Patch
+	Bugs corrigidos. (O mínimo)
+
+
+Ciclo de vida de um software:
+
+1. Protótipo
+	Validação de ideias. Gráficos rudimentares.
+
+2. Pré-Alfa
+	Análises e desenvolvimento inicial. Testes de unidade.
+
+3. Alfa
+	Implementação de features principais. Instável.
+
+4. Beta
+	Features completas. Foco em polimento e usabilidade.
+
+5. Release Candidate (RC)
+	Estabilização final. Potencial produto final.
+
+6. Release (GA/Gold)
+	O produto vivo. Disponibilidade geral.
